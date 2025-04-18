@@ -3,8 +3,8 @@ import Navbar from "@/components/Navbar";
 import { ThemeProvider } from "next-themes";
 
 export const metadata = {
-  title: "My Portfolio",
-  description: "Built with Next.js and Tailwind",
+  title: "kamleshgurjarpalwas",
+  description: "This is kamlesh gurjar palwas portfolio website",
 };
 
 export default function RootLayout({ children }) {

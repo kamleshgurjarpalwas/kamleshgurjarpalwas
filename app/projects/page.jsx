@@ -32,7 +32,7 @@ export default function ProjectsPage() {
         {projects.map((project, idx) => (
           <div
             key={idx}
-            className="bg-white/60 dark:bg-gray-800/50 backdrop-blur-lg shadow-md p-6 rounded-2xl border border-gray-200 dark:border-gray-700 hover:shadow-xl transition-all duration-300"
+            className="bg-white/60 dark:bg-gray-800/10 backdrop-blur-lg shadow-sm p-6 rounded-sm border border-gray-200 dark:border-gray-700 hover:shadow-xl transition-all duration-100"
           >
             <h3 className="text-2xl font-semibold text-gray-800 dark:text-white mb-2">
               {project.title}

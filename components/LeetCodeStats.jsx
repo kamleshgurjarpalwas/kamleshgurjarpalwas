@@ -25,7 +25,7 @@ const Counter = ({ end, label, icon: Icon }) => {
   }, [end]);
 
   return (
-    <div className="flex items-center bg-white/80 dark:bg-white/10 dark:text-white p-5 rounded-xl shadow-sm w-full">
+    <div className="flex items-center bg-white/60 dark:bg-gray-800/10 backdrop-blur-lg shadow-sm p-6 rounded-sm border border-gray-200 dark:border-gray-700 w-full">
       <Icon className="text-3xl text-blue-600 dark:text-blue-400 mr-4" />
       <div>
         <div className="text-2xl font-bold text-gray-900 dark:text-white">
