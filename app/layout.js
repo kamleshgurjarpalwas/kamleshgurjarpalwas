@@ -1,5 +1,6 @@
 import "./globals.css";
 import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
 import { ThemeProvider } from "next-themes";
 
 export const metadata = {
@@ -20,6 +21,7 @@ export default function RootLayout({ children }) {
           <main className="flex-grow container mx-auto max-w-6xl">
             {children}
           </main>
+          <Footer />
         </ThemeProvider>
       </body>
     </html>

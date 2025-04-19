@@ -6,6 +6,7 @@ import { useTheme } from "next-themes";
 import { Button } from "@/components/ui/button";
 import { Moon, Sun, Menu, X } from "lucide-react";
 import { useEffect, useState } from "react";
+import { Github } from "lucide-react";
 
 export default function Navbar() {
   const pathname = usePathname();
@@ -36,7 +37,7 @@ export default function Navbar() {
         {/* Logo or title */}
         <div className="text-xl font-bold text-black dark:text-white">
           {" "}
-            <Link href={"/"}>kamleshgurjarpalwas</Link>
+          <Link href={"/"}>kamleshgurjarpalwas</Link>
         </div>
 
         {/* Desktop Nav */}
@@ -69,7 +70,17 @@ export default function Navbar() {
             </Button>
           )}
 
-          {/* Mobile menu toggle button */}
+          <a
+            href="https://github.com/kamleshgurjarpalwas" // Replace with your actual GitHub URL
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Button variant="ghost" size="icon">
+              <Github className="h-5 w-5 text-black dark:text-white" />
+            </Button>
+          </a>
+
+          {/* Mobile menu toggle */}
           <Button
             variant="ghost"
             size="icon"
