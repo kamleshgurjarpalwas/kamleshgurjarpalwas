@@ -18,7 +18,6 @@
 - **Languages**: `C++`, `JavaScript`, `Python`, `C`, `SQL`
 - **Web Dev**: `HTML`, `CSS`, `React`, `Node.js`, `Express`, `MongoDB`
 - **Tools**: `Git`, `Docker`, `Postman`, `Linux`, `VS Code`, `Figma`
-- **AI/ML**: `Numpy`, `Pandas`, `Scikit-Learn`, `Matplotlib`
 - **Others**: `Next.js`, `Mongoose`, `Firebase`, `Jupyter Notebook`
 
 
