@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Hi 👋, I'm Kamlesh Gurjar</h1>
+<h3 align="center">🚀 Passionate Developer | Open Source Explorer | AI & Web Enthusiast</h3>
 
-## Getting Started
+---
 
-First, run the development server:
+## 🧑‍💻 About Me
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- 🌱 I’m learning:  **Next.js**, and **Open Source Contribution**
+- 📚 Background: Strong in **DSA (C++/JS)**, **Web Dev**, **Python**, and **DBMS**
+- 💡 Exploring: **React ecosystem**, **Backend logic**, and **System Design**
+- 🧩 Interests: Problem-solving, automation, clean UIs, and building scalable systems
+- ✨ Fun Fact: I like solving real-world problems with code and always keep learning something new
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🛠️ Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Languages**: `C++`, `JavaScript`, `Python`, `C`, `SQL`
+- **Web Dev**: `HTML`, `CSS`, `React`, `Node.js`, `Express`, `MongoDB`
+- **Tools**: `Git`, `Docker`, `Postman`, `Linux`, `VS Code`, `Figma`
+- **AI/ML**: `Numpy`, `Pandas`, `Scikit-Learn`, `Matplotlib`
+- **Others**: `Next.js`, `Mongoose`, `Firebase`, `Jupyter Notebook`
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## 🌍 Let's Connect
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 🌐 Portfolio: [portfolio](https://kamleshgurjarpalwas.vercel.app)
+- 💼 LinkedIn: [linkedin.com/in/kamleshgurjarpalwas](https://linkedin.com/in/kamleshgurjarpalwas)
+- 📫 Email: **palwasgurjarkamlesh@gmail.com**
+- 🐱 GitHub: [@kamleshgurjarpalwas](https://github.com/yourusername)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📈 GitHub Stats
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamleshgurjarpalwas&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamleshgurjarpalwas&theme=radical" width="48%" />
+</p>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🤝 Let's Collaborate
+
+> Open to **internships**, **GSoC**, **hackathons**, and **interesting team projects**!  
+> I love writing clean code, debugging complex issues, and building for impact.
+
+---
