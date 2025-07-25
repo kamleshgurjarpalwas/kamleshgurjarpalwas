@@ -26,7 +26,7 @@
 - 🌐 Portfolio: [portfolio](https://kamleshgurjarpalwas.vercel.app)
 - 💼 LinkedIn: [linkedin.com/in/kamleshgurjarpalwas](https://linkedin.com/in/kamleshgurjarpalwas)
 - 📫 Email: **palwasgurjarkamlesh@gmail.com**
-- 🐱 GitHub: [@kamleshgurjarpalwas](https://github.com/yourusername)
+- 🐱 GitHub: [@kamleshgurjarpalwas](https://github.com/kamleshgurjarpalwas)
 
 ---
 
