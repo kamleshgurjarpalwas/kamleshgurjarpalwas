@@ -30,14 +30,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamleshgurjarpalwas&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamleshgurjarpalwas&theme=radical" width="48%" />
-</p>
-
----
 
 ## 🤝 Let's Collaborate
 
